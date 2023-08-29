@@ -30,10 +30,8 @@ const styles = StyleSheet.create({
     backgroundColor: '#6495ED',
     alignItems: 'center',
     paddingHorizontal: 10,
-    marginLeft: '25%',
   },
   Image: {
-    margin: 5,
     width: '85%',
     height: 'auto',
     resizeMode: 'cover',
